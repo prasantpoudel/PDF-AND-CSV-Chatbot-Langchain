@@ -1,0 +1,11 @@
+python-dotenv
+langchain
+openai
+streamlit
+faiss-cpu
+huggingface-hub
+PyPDF2
+InstructorEmbedding
+sentence-transformers
+tiktoken
+qdrant_client
